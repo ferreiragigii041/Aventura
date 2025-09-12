@@ -1,8 +1,5 @@
-style.css
-
-
 body {
-background-color: black;
+background-color: rgb(80, 5, 73);
 display: flex;
 justify-content: center;
 align-items: center;
@@ -12,7 +9,7 @@ margin: 0;
 }
 
 button {
-background-color: black;
+background-color: rgb(241, 147, 232);
 color: white;
 font-family: "Bai Jamjuree", sans-serif;
 }
